@@ -1,0 +1,29 @@
+.header {
+    background-color: rgb(153, 211, 245);
+    height: 70px;
+    size: 100%;
+    padding: 20px 10px;
+}
+
+.logo-direita{
+    font-family: Helvetica;
+    color: white;
+    float: left;
+    text-align: center;
+    font-size: 60px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.botoes-esquerda a{
+    color:white;
+    font-family: helvetica;
+    float: right;
+    text-decoration: none;
+    padding-right: 7px;
+}   
+
+.header a:hover {
+    background-color: rgb(81, 176, 253);
+    color: rgb(173, 225, 238);
+  }
